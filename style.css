@@ -1,0 +1,7 @@
+img{
+  float: left;
+  margin-right: 2em;
+  margin-bottom: 0.5em;
+  
+  shape-outside: circle();
+}
